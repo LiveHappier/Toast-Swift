@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		151796E71BE68E4B004BA6E5 /* Toast-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Toast-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		151796E71BE68E4B004BA6E5 /* ToastSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToastSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		151796EA1BE68E4B004BA6E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = Demo/AppDelegate.swift; sourceTree = SOURCE_ROOT; };
 		151796EC1BE68E4B004BA6E5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = Demo/ViewController.swift; sourceTree = SOURCE_ROOT; };
 		151796F11BE68E4B004BA6E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = Demo/Assets.xcassets; sourceTree = SOURCE_ROOT; };
@@ -49,7 +49,7 @@
 		151796E81BE68E4B004BA6E5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				151796E71BE68E4B004BA6E5 /* Toast-Swift.app */,
+				151796E71BE68E4B004BA6E5 /* ToastSwift.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		151796E61BE68E4B004BA6E5 /* Toast-Swift */ = {
+		151796E61BE68E4B004BA6E5 /* ToastSwift */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 151796F91BE68E4B004BA6E5 /* Build configuration list for PBXNativeTarget "Toast-Swift" */;
+			buildConfigurationList = 151796F91BE68E4B004BA6E5 /* Build configuration list for PBXNativeTarget "ToastSwift" */;
 			buildPhases = (
 				151796E31BE68E4B004BA6E5 /* Sources */,
 				151796E41BE68E4B004BA6E5 /* Frameworks */,
@@ -107,9 +107,9 @@
 			);
 			dependencies = (
 			);
-			name = "Toast-Swift";
+			name = ToastSwift;
 			productName = "Toast-Swift";
-			productReference = 151796E71BE68E4B004BA6E5 /* Toast-Swift.app */;
+			productReference = 151796E71BE68E4B004BA6E5 /* ToastSwift.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -127,7 +127,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 151796E21BE68E4B004BA6E5 /* Build configuration list for PBXProject "Toast-Swift" */;
+			buildConfigurationList = 151796E21BE68E4B004BA6E5 /* Build configuration list for PBXProject "ToastSwift" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -140,7 +140,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				151796E61BE68E4B004BA6E5 /* Toast-Swift */,
+				151796E61BE68E4B004BA6E5 /* ToastSwift */,
 			);
 		};
 /* End PBXProject section */
@@ -271,8 +271,8 @@
 				INFOPLIST_FILE = Demo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.scalessec.Toast-Swift";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.scalessec.ToastSwift;
+				PRODUCT_NAME = ToastSwift;
 			};
 			name = Debug;
 		};
@@ -283,15 +283,15 @@
 				INFOPLIST_FILE = Demo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.scalessec.Toast-Swift";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.scalessec.ToastSwift;
+				PRODUCT_NAME = ToastSwift;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		151796E21BE68E4B004BA6E5 /* Build configuration list for PBXProject "Toast-Swift" */ = {
+		151796E21BE68E4B004BA6E5 /* Build configuration list for PBXProject "ToastSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				151796F71BE68E4B004BA6E5 /* Debug */,
@@ -300,7 +300,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		151796F91BE68E4B004BA6E5 /* Build configuration list for PBXNativeTarget "Toast-Swift" */ = {
+		151796F91BE68E4B004BA6E5 /* Build configuration list for PBXNativeTarget "ToastSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				151796FA1BE68E4B004BA6E5 /* Debug */,

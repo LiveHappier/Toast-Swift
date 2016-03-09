@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "151796E61BE68E4B004BA6E5"
-               BuildableName = "Toast-Swift.app"
-               BlueprintName = "Toast-Swift"
-               ReferencedContainer = "container:Toast-Swift.xcodeproj">
+               BuildableName = "ToastSwift.app"
+               BlueprintName = "ToastSwift"
+               ReferencedContainer = "container:ToastSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "151796E61BE68E4B004BA6E5"
-            BuildableName = "Toast-Swift.app"
-            BlueprintName = "Toast-Swift"
-            ReferencedContainer = "container:Toast-Swift.xcodeproj">
+            BuildableName = "ToastSwift.app"
+            BlueprintName = "ToastSwift"
+            ReferencedContainer = "container:ToastSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "151796E61BE68E4B004BA6E5"
-            BuildableName = "Toast-Swift.app"
-            BlueprintName = "Toast-Swift"
-            ReferencedContainer = "container:Toast-Swift.xcodeproj">
+            BuildableName = "ToastSwift.app"
+            BlueprintName = "ToastSwift"
+            ReferencedContainer = "container:ToastSwift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "151796E61BE68E4B004BA6E5"
-            BuildableName = "Toast-Swift.app"
-            BlueprintName = "Toast-Swift"
-            ReferencedContainer = "container:Toast-Swift.xcodeproj">
+            BuildableName = "ToastSwift.app"
+            BlueprintName = "ToastSwift"
+            ReferencedContainer = "container:ToastSwift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
